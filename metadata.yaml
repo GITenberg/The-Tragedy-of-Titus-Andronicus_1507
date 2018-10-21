@@ -1,5 +1,5 @@
 _repo: The-Tragedy-of-Titus-Andronicus_1507
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Historical drama'
 - !lcsh 'Goths -- Drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: The Tragedy of Titus Andronicus
 url: http://www.gutenberg.org/ebooks/1507
